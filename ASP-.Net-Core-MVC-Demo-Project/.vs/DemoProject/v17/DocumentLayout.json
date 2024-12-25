@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practical(Comnat)\\demo\\DemoProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\views\\home\\addoreditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\views\\home\\addoreditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|d:\\practical(comnat)\\demo\\demoproject\\demoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13724EDE-F900-4B4F-873E-0893F8D4ABC9}|DemoProject\\DemoProject.csproj|solutionrelative:demoproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Program.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Program.cs",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Program.cs",
+              "RelativeToolTip": "DemoProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:16:39.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\appsettings.json",
+              "RelativeDocumentMoniker": "DemoProject\\appsettings.json",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\appsettings.json",
+              "RelativeToolTip": "DemoProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T07:14:16.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAJjMzMzPzvxYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:12:10.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Models\\Products.cs",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Models\\Products.cs",
+              "RelativeToolTip": "DemoProject\\Models\\Products.cs",
+              "ViewState": "AgIAAB4AAACAzMzMzMwvwCwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:24:18.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrEditProduct.cshtml",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Views\\Home\\AddOrEditProduct.cshtml",
+              "RelativeDocumentMoniker": "DemoProject\\Views\\Home\\AddOrEditProduct.cshtml",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Views\\Home\\AddOrEditProduct.cshtml",
+              "RelativeToolTip": "DemoProject\\Views\\Home\\AddOrEditProduct.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T08:05:23.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "DemoProject\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:12:45.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DemoProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DemoProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T07:37:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DemoProject\\Models\\Product.cs",
+              "ToolTip": "D:\\Practical(Comnat)\\demo\\DemoProject\\DemoProject\\Models\\Product.cs",
+              "RelativeToolTip": "DemoProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:27:18.485Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
